@@ -176,7 +176,8 @@ section {
 }
 
 section h2 {
-    margin: 0;
+    margin-bottom: 14.5px;
+    margin-top: 0;
     font-size: 3em;
 }
 
