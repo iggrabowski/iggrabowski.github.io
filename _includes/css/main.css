@@ -8,7 +8,7 @@ body {
     overflow-x: hidden;
 }
 
-p {
+p, ol, ul {
     font-size: 20px;
 }
 
@@ -213,7 +213,7 @@ section.success {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba({{ site.color.primary-rgb }},.9);
+    background: rgba({{ site.color.primary-rgb }},.85);
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -478,7 +478,7 @@ footer .footer-below {
     min-height: 100%;
     border: 0;
     border-radius: 0;
-    text-align: center;
+    /*text-align: center;*/
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;

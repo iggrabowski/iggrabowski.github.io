@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2026-01-30
+title: 'Pine3D: Physically-Based Rendering Material Preview Engine'
+img: Pine3d-snow-helmet.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: January 2026
+client: Aalborg University
+category: Physically Based Rendering
+description: 'Pine3D started as a minor school project motivated by interest in computer graphics and rendering techniques fundamentals, focusing on interactivity between mouse inputs and the texture of a rendered 3D model.<br><br>Overtime the project evolved into a fully fledged rendering engine with a focus on PBR (Physically Based Rendering) capibilities, as well as other features such as post processing effects, and real-time shader control.<br><br>The project was written with minimal use of frameworks, focusing on rapid iteration and visual feedback.<br><br> Technical details:<ul><li>Custom PBR pipeline supporting normal, metallic/roughness, emissive, and ambient occlusion maps.</li><li>Real-time, customizable lighting, image-based lighting (IBL) support.</li><li>Real-time, UI-driven shader control, allowing users to adjust material properties and see immediate visual feedback.</li><li>Scalable engine architecture based on established 3D rendering software solutions</li></ul>'
 ---
