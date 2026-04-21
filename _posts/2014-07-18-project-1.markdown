@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2026-01-30
 title: 'Pine3D: Physically-Based Rendering Material Preview Engine'
-img: pine3d-snow-helmet.jpg
+img: Pine3d-snow-helmet.jpg
 alt: image-alt
 github: 'https://github.com/iggrabowski/Pine3D'
 project-date: January 2026
