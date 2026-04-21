@@ -4,7 +4,7 @@ email: ignacy.grabowski@hotmail.com
 url: https://github.com/iggrabowski
 description: ""
 keywords: "your keywords, separated by commas"
-skills: "Technical Artist - Software Developer - Digital Artist"
+skills: "Technical Artist - Software Developer - Graphics Programmer"
 meta_author: Ignacy Grabowski
 
 # Google webmaster tools
@@ -28,6 +28,7 @@ color:
   primary: 563C25 #80B3FF
   primary-rgb: "86, 60, 37" #"128,179,255"
   secondary: 868a58; #FD6E8A
+  secondary-rgb: "134,138,88" #253,110,138
   secondary-dark: 62683b #A2122F
 
 # Footer settings
@@ -39,21 +40,13 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url:
-  - title: bitbucket
-    url:
   - title: github
     url: http://github.com/iggrabowski
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line:
+  - line:
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'

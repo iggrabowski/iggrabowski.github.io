@@ -37,6 +37,12 @@
                 <strong>{{ project.category }}</strong>
               </li>
               {% endif %}
+              {% if project.github %}
+              <li>Github:
+              <a href="{{ project.github }}" class="btn-social btn-outline"><i
+                  class="fa-brands fa-fw fa-github"></i></a>
+              <li>
+              {% endif %}
             </ul>
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>

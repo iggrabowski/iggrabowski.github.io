@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+title: Animal Tracking
+date: 2026-04-19
+img: animal-tracking.jpg
+alt: image-alt
+project-date: June 2020
+client: Gdańsk University of Technology
+category: Unity
+description: Animal Tracking is an augmented reality project made with Unity. The project utilizes GeoLocation and ARKit to track the user's location and display virtual animals in the real world. The project was designed to be an educational tool for learning about local wildlife.
+---

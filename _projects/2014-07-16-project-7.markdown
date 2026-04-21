@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 7
+title: Magister (the Professor)
+date: 2026-04-21
+img: gwent.jpg
+img-thumbnail: gwent-thumbnail.jpg
+alt: image-alt
+project-date: April 2019
+client: Personal submission
+category: Illustration
+description: 'Submission for Gwent: The Wither Card Game card art contest depicting Magister, a minor antagonist of the Witcher series.'
+---

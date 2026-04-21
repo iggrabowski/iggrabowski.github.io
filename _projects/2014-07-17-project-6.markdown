@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 6
+date: 2026-04-21
+title: Party of adventurers
+img: party.jpg
+img-thumbnail: party-thumbnail.jpg
+alt: image-alt
+project-date: April 2020
+client: Personal project
+category: Concept art
+description: Concept of a set of adventurers for an indie game.
+---

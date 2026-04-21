@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 5
+title: Kobold Magician
+date: 2014-07-15
+img: kobold.jpg
+img-thumbnail: kobold-thumbnail.jpg
+alt: image-alt
+project-date: July 2018
+client: Personal project (Fan-art)
+category: Illustration
+description: 'Heartstone inspired illustration of a Kobold magician.'
+---
