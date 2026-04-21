@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 8
+title: Dwarf Krasnal
+date: 2026-04-17
+img: krasnal.jpg
+img-thumbnail: krasnal-thumbnail.jpg
+alt: image-alt
+project-date: February 2019
+client: Personal
+category: Illustration
+description: 'Dwarf taking a break from adventuring.'
+---
