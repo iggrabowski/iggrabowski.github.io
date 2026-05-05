@@ -8,5 +8,5 @@ alt: image-alt
 project-date: January 2021
 client: Aalborg University
 category: Game Development
-description: Distancing is a social distancing game where you are going to a party, but on the way you need to try and keep the social distancing.<br><br>The game has been published on <a href="https://store.steampowered.com/app/1562860/Distancing/">Steam <i class="fa-brands fa-fw fa-steam"></i></a> and <a href="https://toryn.itch.io/distancing">Itch.io <i class="fa-brands fa-fw fa-itch-io"></i></a>
+description: Distancing is a social distancing game where you are going to a party, but on the way you need to try and keep the social distancing. My involvement in the project boiled down to leading the technical development of the game, as well as supporting the asset creation.<br><br>The game has been published on <a href="https://store.steampowered.com/app/1562860/Distancing/">Steam <i class="fa-brands fa-fw fa-steam"></i></a> and <a href="https://toryn.itch.io/distancing">Itch.io <i class="fa-brands fa-fw fa-itch-io"></i></a>
 ---

@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 9
+title: Point Cloud Generation 
+date: 2026-04-19
+img: point-cloud.jpg
+img-thumbnail: point-cloud-thumbnail.jpg
+alt: image-alt
+project-date: June 2020
+client: Gdańsk University of Technology
+category: OpenGL Photogrammetry
+description: 'My involvement in this project focused on implementing photogrammetry methodologies to generate a point cloud from smartphone photos. The process involved capturing images using a smartphone and processing them to create a 3D point cloud representation. The project was developed in collaboration with a team of three members, utilizing OpenGL and OpenCV technologies.<br><br>The generated point cloud can be used for various applications, including 3D modeling, virtual reality, and augmented reality. This project provided a valuable learning experience, allowing me to explore new technologies and work collaboratively to achieve our objectives.<br><br>Technical details:<ul><li>Photogrammetry pipeline for processing smartphone images into a 3D point cloud.</li><li>Integration of OpenCV for image processing and feature extraction.</li><li>Rendering and visualization of the point cloud using OpenGL.</li></ul>Key Technologies: OpenGL, OpenCV.'
+---

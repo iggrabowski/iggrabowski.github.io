@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 10
+title: Virtual Reality Out of Sight Scene Transition Project
+date: 2026-05-05
+img: VR.jpg
+img-thumbnail: VR-thumbnail.jpg
+alt: image-alt
+project-date: June 2025
+client: Aalborg University
+category: Unreal-Engine Virtual-Reality
+description: 'This project involved the development of a VR game designed to evaluate a novel visual transition technique called the Out-of-Vision transition method. The game, implemented in Unreal Engine, was set in an escape room-style environment and utilized natural walking locomotion. The project aimed to compare the Out-of-Vision transition technique with the established impossible spaces method as scene transition techniques.<br><br>The evaluation focused on users perceived sense of presence, continuity, and overall preference. The study employed both between-subjects and within-subjects experimental designs, using structured Likert-scale questionnaires to gather data.<br><br>Results indicated that both techniques effectively maintained high levels of immersion and continuity, with the corridor-based method showing a slight edge in perceived presence and continuity. However, qualitative data highlighted the potential of the Out-of-Vision transition method to create seamless and immersive experiences.<br><br>Technical details:<ul><li>Development of a VR escape room game using Unreal Engine.</li><li>Implementation of two scene transition techniques: Out-of-Vision and impossible spaces.</li><li>Evaluation through user studies with structured questionnaires and qualitative feedback.</li></ul>Key Technologies: Unreal Engine, Virtual Reality.'
+
+---

@@ -19,7 +19,11 @@
               {{ post.title }}
             </div>
           </div>
+          {% if post.img-thumbnail %}
+          <img src="img/portfolio/{{ post.img-thumbnail }}" class="img-responsive" alt="{{ post.alt }}">
+          {% else %}
           <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+          {% endif %}
         </a>
       </div>
       {% endfor %}

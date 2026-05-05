@@ -6,6 +6,7 @@
 
 body {
     overflow-x: hidden;
+    background-color: #ece1cc;
 }
 
 p, ol, ul {
@@ -199,7 +200,7 @@ section.success {
 
 #portfolio .portfolio-item {
     right: 0;
-    margin: 0 0 15px;
+    margin: 0 0 0px;
 }
 
 #portfolio .portfolio-item .portfolio-link {
@@ -250,7 +251,7 @@ section.success {
 
 @media(min-width:767px) {
     #portfolio .portfolio-item {
-        margin: 0 0 30px;
+        margin: 0 0 0px;
     }
 }
 
@@ -258,7 +259,7 @@ section.success {
 
 #projects .portfolio-item {
     right: 0;
-    margin: 0 0 15px;
+    margin: 0 0 0px;
 }
 
 #projects .portfolio-item .portfolio-link {
@@ -309,7 +310,7 @@ section.success {
 
 @media(min-width:767px) {
     #projects .portfolio-item {
-        margin: 0 0 30px;
+        margin: 0 0 0px;
     }
 }
 
@@ -319,7 +320,7 @@ section.success {
       display: flex;
       flex-flow: row wrap;
       align-items: stretch;
-      justify-content: space-between;
+      justify-content: flex-start;
     }
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
       flex: 1 0 49%;
